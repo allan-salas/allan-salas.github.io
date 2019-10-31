@@ -215,7 +215,6 @@ body a:hover
 
 .section-content-holder .content-title
 {
-    font-family: 'Montserrat';
     font-weight: 700;
     text-align: center;
     font-size: 180px;
@@ -298,7 +297,7 @@ h1.big-title
 
 .title-desc
 {
-    font-family: 'PT Serif', serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px; 
