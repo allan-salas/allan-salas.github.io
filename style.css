@@ -215,7 +215,7 @@ body a:hover
 
 .section-content-holder .content-title
 {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat'sans-serif;
     font-weight: 700;
     text-align: center;
     font-size: 180px;
